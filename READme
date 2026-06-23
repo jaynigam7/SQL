@@ -12,17 +12,3 @@ It covers a wide range of topics, including:
 * **Database Optimization:** Indexing, query performance tuning, and execution plans.
 * **Programmability:** Stored procedures, user-defined functions, and triggers.
 
----
-
-## 📂 Repository Structure
-
-```text
-├── 01-Database-Schemas/       # SQL scripts for creating tables, relationships, and constraints
-│   ├── ecommerce_schema.sql
-│   └── hr_management.sql
-├── 02-Data-Analysis/          # Complex analytical queries, reporting, and KPI extraction
-│   ├── sales_performance.sql
-│   └── customer_segmentation.sql
-├── 03-Optimization/           # Indexing examples and query performance tuning scripts
-│   └── indexing_strategies.sql
-└── README.md
